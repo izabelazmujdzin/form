@@ -1,0 +1,17 @@
+body {
+	background: #044718;
+	color: #ffffff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+}
+
+.form {
+	width: 500px;
+}
+
+.form__item {
+	display: block;
+	width: 100%;
+}
